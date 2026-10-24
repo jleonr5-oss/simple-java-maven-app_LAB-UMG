@@ -1,4 +1,4 @@
-# simple-java-maven-app 2026-UMG
+# simple-java-maven-app 2026-UMG-JL
 
 Version 1.1
 
